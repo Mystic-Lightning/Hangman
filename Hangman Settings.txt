@@ -1,0 +1,6 @@
+# add "#" at the start of a new line to stop the program from reading the line.
+# don't add empty lines to the text file.
+max_lifes = 5
+# specify the path to the text file that contains the list of words
+words_file = /home/mysticlightning/Documents/Hangman/words.txt
+# if you change the any settings here please restart the game.
